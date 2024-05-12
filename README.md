@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/c76fcba45a168789b763d0b9c4c6cf2a56309d0ed504a03063d2c5ee93cb0cde/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3832382f312a764a6a4a334d646f6b365276787838354949527142512e676966" />
 - 🔭 I’m currently working on **Employee Management System**
 
 - 🌱 I’m currently learning **JSP,Servlet,SpringMVC**
@@ -9,7 +10,7 @@
 - 📫 How to reach me **anshusinghj1236@gmail.com**
 
 - ⚡ Fun fact **Coding Bugs were NOT named after an actual bug**
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/c76fcba45a168789b763d0b9c4c6cf2a56309d0ed504a03063d2c5ee93cb0cde/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3832382f312a764a6a4a334d646f6b365276787838354949527142512e676966" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anshu315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshu315" height="30" width="40" /></a>
